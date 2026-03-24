@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+tqdm
+nltk
+min-max-heap
+jupyter
+ipykernel
